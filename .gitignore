@@ -1,0 +1,5 @@
+# Ignorar archivos de configuración que contengan secretos
+.env
+
+# Ignorar dependencias
+node_modules/
